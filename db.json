@@ -1,0 +1,125 @@
+{
+  "events": [
+    {
+      "id": "1",
+      "eventName": "Sunburn",
+      "date": "2025-01-24",
+      "description": "Sunburn is the hottest event in the market right now",
+      "img": [
+        "image-1.jpg",
+        "image-2.jpg",
+        "image-3.jpg"
+      ]
+    },
+    {
+      "id": "2",
+      "eventName": "Tech Summit 2025",
+      "date": "2025-02-12",
+      "description": "A gathering of the brightest minds in the tech industry",
+      "img": [
+        "image-1.jpg",
+        "image-2.jpg",
+        "image-3.jpg"
+      ]
+    },
+    {
+      "id": "3",
+      "eventName": "Food Fest Fiesta",
+      "date": "2025-03-11",
+      "description": "A culinary journey through flavors from around the world",
+      "img": [
+        "image-1.jpg",
+        "image-2.jpg",
+        "image-3.jpg"
+      ]
+    },
+    {
+      "id": "4",
+      "eventName": "Marathon Madness",
+      "date": "2025-04-05",
+      "description": "Join thousands in this exhilarating marathon event",
+      "img": [
+        "image-1.jpg",
+        "image-2.jpg",
+        "image-3.jpg"
+      ]
+    },
+    {
+      "id": "5",
+      "eventName": "ComicCon 2025",
+      "date": "2025-05-16",
+      "description": "Celebrate pop culture and meet your favorite artists",
+      "img": [
+        "image-1.jpg",
+        "image-2.jpg",
+        "image-3.jpg"
+      ]
+    },
+    {
+      "id": "6",
+      "eventName": "Music Mania",
+      "date": "2025-06-12",
+      "description": "An electrifying night with performances by top artists",
+      "img": [
+        "image-1.jpg",
+        "image-2.jpg",
+        "image-3.jpg"
+      ]
+    },
+    {
+      "id": "7",
+      "eventName": "Art Expo 2025",
+      "date": "2025-07-20",
+      "description": "A showcase of masterpieces by renowned and emerging artists",
+      "img": [
+        "image-1.jpg",
+        "image-2.jpg",
+        "image-3.jpg"
+      ]
+    },
+    {
+      "id": "8",
+      "eventName": "Startup Pitch Night",
+      "date": "2025-08-18",
+      "description": "Where innovation meets investment opportunities",
+      "img": [
+        "image-1.jpg",
+        "image-2.jpg",
+        "image-3.jpg"
+      ]
+    },
+    {
+      "id": "9",
+      "eventName": "Winter Wonderland",
+      "date": "2025-12-15",
+      "description": "A festive celebration of the holiday season",
+      "img": [
+        "image-1.jpg",
+        "image-2.jpg",
+        "image-3.jpg"
+      ]
+    },
+    {
+      "id": "10",
+      "eventName": "Literary Lounge",
+      "date": "2025-11-20",
+      "description": "A retreat for book lovers and aspiring writers",
+      "img": [
+        "image-1.jpg",
+        "image-2.jpg",
+        "image-3.jpg"
+      ]
+    },
+    {
+      "id": "f1df",
+      "eventName": "DJ Night 2025",
+      "date": "2025-01-25",
+      "description": "Julia bliss is the coolest DJ in the town",
+      "img": [
+        "image-1.jpg",
+        "image-2.jpg",
+        "image-3.jpg"
+      ]
+    }
+  ]
+}
